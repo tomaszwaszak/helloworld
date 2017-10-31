@@ -1,6 +1,7 @@
 {
   "name": "tomaszwaszak/helloworld",
   "description": "Pierwszy projekt git / Composer Tomasza Waszaka",
+  "version": "1.0.0",
   "repositories": [
     {
        "type":  "git",
