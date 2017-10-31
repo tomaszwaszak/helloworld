@@ -1,8 +1,5 @@
 {
     "name": "tomaszwaszak/helloworld",
-    "version": "3.1.7",
-    "dist": {
-        "url": "http://www.smarty.net/files/Smarty-3.1.7.zip",
-        "type": "zip"
-    }
+    "description": "Opis pierwszego projektu composer Tomasza Waszaka",
+    "version": "1.0.0"
 }
