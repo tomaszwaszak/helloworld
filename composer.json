@@ -1,4 +1,10 @@
 {
   "name": "tomaszwaszak/helloworld",
-  "description": "Pierwszy projekt git / Composer Tomasza Waszaka"
+  "description": "Pierwszy projekt git / Composer Tomasza Waszaka",
+  "repositories": [
+    {
+       "type":  "git",
+      "url":  "https://github.com/tomaszwaszak/helloworld"
+    }
+    ]
   }
