@@ -1,5 +1,9 @@
 {
     "name": "tomaszwaszak/helloworld",
     "description": "Opis pierwszego projektu composer Tomasza Waszaka",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dist": {
+        "url":  "https://github.com/tomaszwaszak/helloworld/archive/1.0.zip",
+        "type": "zip"
+    }
 }
